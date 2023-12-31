@@ -7,8 +7,6 @@ browser-compat: css.at-rules.font-face.font-display
 
 {{CSSRef}}
 
-The **`font-display`** descriptor for the [`@font-face`](/en-US/docs/Web/CSS/@font-face) at-rule determines how a font face is displayed based on whether and when it is downloaded and ready to use.
-
 ## Syntax
 
 ```css
@@ -78,12 +76,3 @@ The font display timeline is based on a timer that begins the moment the user ag
 {{Compat}}
 
 ## See also
-
-- {{cssxref("@font-face/font-family", "font-family")}}
-- {{cssxref("@font-face/font-stretch", "font-stretch")}}
-- {{cssxref("@font-face/font-style", "font-style")}}
-- {{cssxref("@font-face/font-weight", "font-weight")}}
-- {{cssxref("font-feature-settings", "font-feature-settings")}}
-- {{cssxref("@font-face/font-variation-settings", "font-variation-settings")}}
-- {{cssxref("@font-face/src", "src")}}
-- {{cssxref("@font-face/unicode-range", "unicode-range")}}
